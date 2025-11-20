@@ -16,4 +16,3 @@ Now you can fetch the json data from http://localhost:8080
   npm install
   npm run dev
 ```
-
